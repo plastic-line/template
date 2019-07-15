@@ -27,7 +27,7 @@ Every prize won
 
 ## Contribute
 
-If you think this could be better, please [open an issue](https://repo link)!
+If you think this could be better, please [open an issue](https://github.com/pietroos/template/issues)!
 
 ## License
 
