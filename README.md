@@ -1,8 +1,8 @@
 # Repo Template
 
-> A template for creating all new repositories
+> A template for creating all new repositories of MTS
 
-This repository is a template for all my projects
+This repository is a template for all projects
 
 ## Install
 
@@ -19,7 +19,7 @@ Every prize won
 
 ## Contribute
 
-If you think this could be better, please [open an issue](https://github.com/pietroos/template/issues)!
+If you think this could be better, please [open an issue](https://github.com/markers-tecnology-systems/template/issues)!
 
 ## License
 
