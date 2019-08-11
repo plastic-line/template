@@ -1,6 +1,6 @@
 # Repo Template
 
-> A template for creating all new repositories of MTS
+> A template for creating all new repositories of Plastic Line
 
 This repository is a template for all projects
 
@@ -19,7 +19,7 @@ Every prize won
 
 ## Contribute
 
-If you think this could be better, please [open an issue](https://github.com/markers-tecnology-systems/template/issues)!
+If you think this could be better, please [open an issue](https://github.com/plastic-line/template/issues)!
 
 ## License
 
